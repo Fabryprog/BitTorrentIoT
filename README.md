@@ -1,6 +1,10 @@
 # INSTALL
 
-npm install ed25519-supercop bittorrent-dht
+```
+> git clone https://github.com/Fabryprog/IoTBitTorrent.git
+> cd IoTBitTorrent
+> npm install ed25519-supercop bittorrent-dht
+```
 
 # PoC
 
