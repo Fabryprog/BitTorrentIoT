@@ -1,0 +1,24 @@
+{
+  "name": "iotbittorrent",
+  "version": "1.0.0",
+  "description": "```\r > git clone https://github.com/Fabryprog/IoTBitTorrent.git\r > cd IoTBitTorrent\r > npm install ed25519-supercop bittorrent-dht\r ```",
+  "main": "get.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabryprog/IoTBitTorrent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fabryprog/IoTBitTorrent/issues"
+  },
+  "homepage": "https://github.com/Fabryprog/IoTBitTorrent#readme",
+  "dependencies": {
+    "bittorrent-dht": "^9.0.3",
+    "crypto": "^1.0.1",
+    "ed25519-supercop": "^1.2.0"
+  }
+}
