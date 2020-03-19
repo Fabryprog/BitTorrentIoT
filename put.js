@@ -1,6 +1,5 @@
 var DHT = require('bittorrent-dht')
 var ed = require('ed25519-supercop')
-var crypto = require('crypto')
 
 var dht = new DHT({ verify: ed.verify })
 
